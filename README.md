@@ -1,4 +1,4 @@
-# MIT-Machine-Learning-with-Python
+# MIT-Machine Learning with Python–From Linear Models to Deep Learning | One of the 5 courses in MIT MicroMasters in Statistics & Data Science
 
 Welcome to 6.86x Machine Learning with Python–From Linear Models to Deep Learning.
 
